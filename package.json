@@ -1,5 +1,5 @@
 {
-  "name": "filmoteka",
+  "name": "Filmoteka",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "eurocoders team",
   "license": "",
-  "homepage": "https://yevgeniya-alexeyeva.github.io/filmoteka/",
+  "homepage": "https://andchorniy.github.io/Filmoteka/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
